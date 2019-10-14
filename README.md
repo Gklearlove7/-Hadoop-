@@ -1,0 +1,2 @@
+# -
+利用Python的Scrapy爬虫框架进行数据的爬取，利用Hadoop框架Hive数据仓库进行数据的分析，利用Mysql进行数据的存储，并使用Tableau进行数据的可视化。
