@@ -27,7 +27,7 @@ mpl.rcParams['font.sans-serif'] = ['SimHei']
 # In[146]:
 
 
-df = pd.read_csv('./2019-10-13-14-19-2-250802323965067-【北京二手房网北京二手房出售北京二手房买卖信息】-北京5-采集的数据-后羿采集器.csv',encoding="utf-8")
+df = pd.read_csv('./北京二手房网北京二手房出售北京二手房买卖信息.csv',encoding="utf-8")
 df
 
 
